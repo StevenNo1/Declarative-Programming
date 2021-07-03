@@ -1,0 +1,28 @@
+Haskell questions(you should write it in haskell)
+
+1.
+Cannot remember(you should write it in one line, simple question)
+
+2.
+given a variable x already in IO() type, yous should add it with 4*5 and combine them toghether.(you should write in one line)
+
+3.
+give a list of words. For instance, ['asdf','dfg','wq']. You should output ['asdf',' dfg','  wq'], which means add some space in front of the word and make them in same length.(you should write it in one line)
+
+4.
+given three numbers. first two number is the coin and the third one is the goal number. For instance, 4, 7 and 18. It is true beacuse you could use two coin 7 and one coin 4 to have 18. However, if two number cannot make the thrid number, the algorithm would return false.
+
+5.
+make a left-heavy tree the format is node (left tree) a (right tree). The input is a list.
+
+Prolog questions
+
+6.query some database questions
+
+7.query some database questions
+
+8.query some database questions
+
+9.you should write a pair() that input some table, chair and check if they are in garbage and make a real founture and how many.
+
+That's all.
